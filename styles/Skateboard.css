@@ -1,0 +1,70 @@
+/*
+Jaden schank
+Is 201
+2023
+*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, main, footer {
+    margin: 20px;
+}
+
+nav {
+    text-align: center; /* Center the content horizontally */
+    margin-bottom: 20px; 
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
+
+nav a:hover, nav a:focus {
+   
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+main {
+    text-align: center;
+}
+
+section {
+    text-align: left;
+    display: inline-block;
+    width: 80%; /* Adjust the width */
+}
+
+
+#media a, nav a {
+    text-decoration: none;
+    /* Remove the border-bottom styles */
+}
+footer {
+    text-align: center;
+}
+#tableau {
+    margin-top: 40px; /* Adjust margin as needed */
+}
+
+#tableau iframe {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px; /* Adjust margin as needed */
+}
+
+

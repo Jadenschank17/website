@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color:rgb(189, 231, 239) ;
+}
+li {
+font-size: 14px;
+font-style: italic;
+font-weight: normal;
+}
+a {color: black;
+text-decoration: none;}
+a:hover{
+   
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {
+    color: blue;
+}
+.resume{
+    font-weight: bold;
+    font-style: normal;
+    color: beige
+}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg {
+    background-image: url('../images/waves_background.jpg');
+    background-position: top right;
+    background-repeat: repeat;
+}
+
+
+.center { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: normal%;
+  } 
+  /* used to center the image of Myself on home page to look better  */
